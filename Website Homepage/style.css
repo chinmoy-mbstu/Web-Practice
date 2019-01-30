@@ -1,0 +1,151 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#first{
+	
+}
+
+.container{
+	max-width:1200px;
+	margin:0 auto;
+	padding:70px 0;
+	overflow:hidden;	
+}
+
+.full-width{
+	margin:50px;
+}
+
+.logo{
+	float:left;
+	width:30%
+}
+
+.menu{
+	margin-top:50px;
+	float:left;
+	width:70%
+}
+.menu ul{
+	
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+	padding-left:10px;
+}
+.menu ul li a{
+	font-size:20px;
+	padding:10px 15px;
+	text-decoration:none;
+	color:#F99B2A;
+	background:#A99357;
+}
+
+.menu ul li a:hover{
+	color:white;
+	background:red;
+}
+
+#second-section{
+	background:url(images/nature.jpg) no-repeat;
+	background-size:1200px;
+	background-position:center center;
+	background-attachment:fixed;
+}
+
+.content{
+	text-align:center;
+	padding:100px 0;
+	color:#00E6FF;
+	
+}
+
+.content h2{
+	font-size:60px;
+}
+
+.content p{
+	font-size:25px;
+}
+
+#third-section{
+	padding-bottom:100px;
+}
+
+.section-top{
+	padding:40px 0;
+	text-align:center;
+}
+
+.section-top h2{
+	font-size:40px;
+	color:red;
+	text-shadow:1px 2px 1px black;
+}
+
+.section-top p{
+	font-size:25px;
+	color:black;
+}
+
+
+.third-content{
+	
+}
+
+.content-content{
+	max-width:33.33333333%;
+	float:left;
+	text-align:center;
+}
+
+.content-content h2{
+	color:red;
+	text-shadow:1px 2px 1px black;
+}
+
+#fourth-section{
+	padding:40px;
+	background:url(images/img1.jpg)no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+.fourth-content{
+	
+}
+
+.fourth{
+	max-width:25%;
+	float:left;
+	text-align:center;
+	margin-left:0;
+}
+
+.fourth img{
+	border-radius:50%;
+}
+
+.fourth-top{
+	text-align:center;
+	color:white;
+}
+
+.fourth-top h2{
+	font-size:50px;
+}
+
+.fourth-top p{
+	font-size:30px;
+	padding-bottom:40px;
+}
+
+#footer{
+	background:red;
+	color:white;
+	padding:30px;
+	text-align:center;
+}
